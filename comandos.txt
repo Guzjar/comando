@@ -1,0 +1,4 @@
+1. mkdir examenesGuzman ( mkdir examenesGuzman/prog examenesGuzman/si examenesGuzman/bbdd)
+2.touch prog/index.php
+3 cp ../prog/index.php ../si/___cp ../prog/index.php ../bbdd/consultas.sql
+
