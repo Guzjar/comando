@@ -6,5 +6,6 @@
 6.../../login
 7.rm ../../bbdd/consultas.sql
 8.mv ../../bbdd/index.php ../../si/git/index2.php
+9.echo "select*from clientes">login
 
 
