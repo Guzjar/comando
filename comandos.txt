@@ -3,5 +3,6 @@
 3 cp ../prog/index.php ../si/___cp ../prog/index.php ../bbdd/consultas.sql
 4. mkdir si/git
 5.$ cd ./si/git
+6.../../login
 
 
